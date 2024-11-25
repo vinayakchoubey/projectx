@@ -24,12 +24,12 @@ body {
   border-radius: 50%;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.3);
-  color: #1eb2a6;
+  color: #6fbeb8;
   transition: 0.5s;
 }
 .icon:hover {
   cursor: pointer;
-  background-color: #1eb2a6;
+  background-color: #6fbeb8;
   color: #fff;
 }
 a {
@@ -43,8 +43,8 @@ li {
 }
 button {
   padding: 17px 30px;
-  background-color: #fff;
-  color: #1eb2a6;
+  background-color: #e7dede;
+  color: #082725;
   font-weight: 600;
   border: none;
   margin: 30px 10px 0 0;
@@ -60,11 +60,11 @@ button:hover {
   box-shadow: none;
 }
 .primary-btn {
-  background-color: #1eb2a6;
+  background-color: #143633;
   color: #fff;
 }
 
-/*------------global-----------*/
+
 #heading {
   text-align: center;
   padding: 40px 0;
@@ -72,7 +72,7 @@ button:hover {
 #heading h3 {
   font-weight: 600;
   letter-spacing: 1px;
-  color: #1eb2a6;
+  color: #031f1d;
   text-transform: uppercase;
 }
 #heading h1 {
@@ -97,7 +97,7 @@ p {
   height: 100vh;
   padding-top: 30%;
   padding-right: 50px;
-  color: #fff;
+  color: #010e0c;
   text-align: center;
 }
 .back h1 {
@@ -128,12 +128,12 @@ p {
 .outline-btn {
   margin: 0;
   box-shadow: none;
-  border: 2px solid #1eb2a6;
+  border: 2px solid #124641;
   width: 100%;
   transition: 0.5s;
 }
 .outline-btn:hover {
-  background-color: #1eb2a6;
+  background-color: #0d625b;
   color: #fff;
 }
 .grid3 {

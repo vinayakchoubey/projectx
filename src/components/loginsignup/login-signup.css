@@ -52,7 +52,7 @@ input {
   transition: 0.3s ease;
 }
 #kaamkabutton{
-  background-color: #59837c;
+  background-color: #1c564c;
 }
 input:focus {
   border-color: #6a11cb;
@@ -82,7 +82,7 @@ p {
 }
 
 p a {
-  color: #2575fc;
+  color: #1fc3d9;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
